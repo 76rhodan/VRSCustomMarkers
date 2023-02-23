@@ -3,6 +3,7 @@ Custom SVG Aircraft Markers for Virtual Radar Server - forked from [shish0r/VRSC
 
 **Only** works on V3 VRS - which supports SVG aircraft markers.
 
+
 ## Installing
 
 The following instructions are for a VRS installed on Linux - installing on windows should be very similar.
